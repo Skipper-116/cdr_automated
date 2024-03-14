@@ -1,0 +1,5 @@
+/target
+.env
+
+# ignore known rust files to be ignored
+Cargo.lock
